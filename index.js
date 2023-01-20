@@ -12,4 +12,5 @@ function A (arr){
     console.log(even)
     console.log(odd)
 }
+
 A([1,2,3,4,5,4,3,2,2])
